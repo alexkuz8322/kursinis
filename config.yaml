@@ -1,0 +1,22 @@
+#modules used in code
+modules:
+  - csv
+  - datetime
+#configurations for the code
+input_file_path: "general.csv"
+output_file_path: "sorted_info.csv"
+unsorted_file_path: "unsorted_info.csv"
+statistics_file_path: "statistics.json"
+date_format: "%Y-%m-%d"
+delimiter: ","
+#column indexes
+type_column_index: 0
+id_column_index: 1
+address_column_index: 2
+date_column_index: 3
+body_column_index: 4
+
+
+
+
+

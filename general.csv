@@ -1,0 +1,39 @@
+type,id,address,date,body
+sms,1,shandra@cheerful.com,1304645695886,(Nearby! Coming for my beer) Hey Yob. I am closing in on Fat Heads. See ya soon.
+sms,2,sms.dynadel@gmail.com,1304704410497,Reminder. planned IT outage this weekend.  This maintenance window will start at 3 PM today and continue for approx 48 hours.
+sms,3,sms.dynadel@gmail.com,1304704516458,This effects external services such as website email webmail and the ftp server.  Use the secondary email access and helpdesk # for emergencies.
+sms,4,shandra@cheerful.com,1304811556192,(Save me!) If Luke asks I'm going out with you to dinner. OK? I just can't face Mr. Smooth tonight. Shandra
+sms,5,6245,1304811867383,Sure thing. Do you know where the wine loft is?
+sms,6,6245,1304812477765,I ran into some friends at the double wide. Meetup at 8:30 or so?
+sms,7,6245,1304812613016,Or you can walk down Carson and join us
+sms,8,shandra@cheerful.com,1304824201869,(Re: Or you can walk down) Walking down now. Hope you are still vertical.
+sms,9,shandra@cheerful.com,1304824203956,(Re: Or you can walk down) Walking down now. Hope you are still vertical.
+sms,10,shandra@cheerful.com,1304824227294,(Re: Or you can walk down) Walking down now. Hope you are still vertical.
+sms,11,shandra@cheerful.com,1304824231029,(Re: Or you can walk down) Hope you guys are still at double-wide ...
+sms,12,shandra@cheerful.com,1304890905841,(Thanks) Thanks for being so gracious last night. Shandra
+sms,13,shandra@cheerful.com,1305026806628,(You around for lunch) Hey -- a few of us are going to that great Indian buffet for lunch today. You interested?
+sms,14,6245,1305034304140,Sorry still an Atlanta till tonight.  Raincheck?
+sms,15,shandra@cheerful.com,1305045318622,(Re: Sorry still an Atlanta till) OK. Safe travels!
+sms,16,4124393388,1305060183890,You have insufficient funds to send message.
+sms,17,4124393388,1305060220087,You have insufficient funds to send message.
+dwn,18,Downloading system update,1304556750359 ,http://v11.lscache8.c.android.clients.google.com/packages/data/ota/verizon_voles/fa406da6c8bb.signed-voles-ESE81-from-ESD56.fa406da6.zip
+dwn,19,Market Update,1304558145225 ,https://android.clients.google.com/market/download/Download?userId=06232416095235528160&deviceId=2494994194133873757&downloadId=7928444678443494089&assetId
+dwn,20,Angry Birds,1304559666565 ,http://android.clients.google.com/market/download/Download?userId=06232416095235528160&deviceId=2494994194133873757&downloadId=5771942266460151034&assetId=-5215283557087534742
+dwn,21,Angry Birds Seasons,1304559666470 ,http://android.clients.google.com/market/download/Download?userId=06232416095235528160&deviceId=2494994194133873757&downloadId=-804212700415400510&assetId=8874531864766809539
+dwn,22,Paper Toss,1304559288984 ,http://android.clients.google.com/market/download/Download?userId=06232416095235528160&deviceId=2494994194133873757&downloadId=-8553455058101052017&assetId=-6957133861553016613
+dwn,23,Toss It,1304559279451 ,http://android.clients.google.com/market/download/Download?userId=06232416095235528160&deviceId=2494994194133873757&downloadId=-1752496063391233409&assetId=-7205377573307687307
+dwn,24,Live BlackJack,1304559466333 ,http://android.clients.google.com/market/download/Download?userId=06232416095235528160&deviceId=2494994194133873757&downloadId=-7244732063216456157&assetId=3857077051341950442
+dwn,25,Air Control Lite,1304559395627 ,http://android.clients.google.com/market/download/Download?userId=06232416095235528160&deviceId=2494994194133873757&downloadId=8341317964842408355&assetId=-5668685175228624834
+dwn,26,Pool Master Pro,1304559348451 ,http://android.clients.google.com/market/download/Download?userId=06232416095235528160&deviceId=2494994194133873757&downloadId=-3929622768580281901&assetId=-2984575603641909141
+dwn,27,Gmail,1304699679271 ,https://android.clients.google.com/proxy/gmail/mail/g/?version=25&clientVersion=25&view=att&messageId=1368057747534908928&partId=0.1&maxWidth=854&maxHeight=854&showOriginal=1
+dwn,28,Gmail,1304705308037 ,https://android.clients.google.com/proxy/gmail/mail/g/?version=25&clientVersion=25&view=att&messageId=1368082643664638598&partId=0.1&maxWidth=854&maxHeight=854&showOriginal=0
+dwn,29,Gmail,1304787113856 ,https://android.clients.google.com/proxy/gmail/mail/g/?version=25&clientVersion=25&view=att&messageId=1368116815157561978&partId=0.1&maxWidth=854&maxHeight=854&showOriginal=1
+dwn,30,Market Update,1304787284731 ,https://android.clients.google.com/market/download/Download?userId=06232416095235528160&deviceId=2494994194133873757&downloadId=-6790437582295526731&assetId=market-client
+dwn,31,Gmail,1304788086517 ,https://android.clients.google.com/proxy/gmail/mail/g/?version=25&clientVersion=25&view=att&messageId=1368116815157561978&partId=0.2&maxWidth=854&maxHeight=854&showOriginal=1
+dwn,32,Gmail,1304788231605 ,https://android.clients.google.com/proxy/gmail/mail/g/?version=25&clientVersion=25&view=att&messageId=1368116815157561978&partId=0.3&maxWidth=854&maxHeight=854&showOriginal=1
+dwn,33,Gmail,1304788272883 ,https://android.clients.google.com/proxy/gmail/mail/g/?version=25&clientVersion=25&view=att&messageId=1368167760076938267&partId=0.1&maxWidth=854&maxHeight=854&showOriginal=1
+dwn,34,Gmail,1304788290616 ,https://android.clients.google.com/proxy/gmail/mail/g/?version=25&clientVersion=25&view=att&messageId=1368167760076938267&partId=0.2&maxWidth=854&maxHeight=854&showOriginal=1
+dwn,35,Gmail,1304788304657 ,https://android.clients.google.com/proxy/gmail/mail/g/?version=25&clientVersion=25&view=att&messageId=1368167760076938267&partId=0.3&maxWidth=854&maxHeight=854&showOriginal=1
+dwn,36,Gmail,1304788322708 ,https://android.clients.google.com/proxy/gmail/mail/g/?version=25&clientVersion=25&view=att&messageId=1368167760076938267&partId=0.4&maxWidth=854&maxHeight=854&showOriginal=1
+dwn,37,Gmail,1304788341127 ,https://android.clients.google.com/proxy/gmail/mail/g/?version=25&clientVersion=25&view=att&messageId=1368167760076938267&partId=0.5&maxWidth=854&maxHeight=854&showOriginal=1
+dwn,38,Gmail,1304788353762 ,https://android.clients.google.com/proxy/gmail/mail/g/?version=25&clientVersion=25&view=att&messageId=1368167760076938267&partId=0.6&maxWidth=854&maxHeight=854&showOriginal=1
